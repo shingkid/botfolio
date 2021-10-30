@@ -7,6 +7,8 @@ name = "pypi"
 flask = "*"
 python-telegram-bot = "*"
 requests = "*"
+pre-commit = "*"
+commitizen = "*"
 
 [dev-packages]
 
